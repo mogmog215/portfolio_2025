@@ -16,10 +16,3 @@ It is focused on deploying a simple, modular, and reusable AWS environment inclu
   - Optional: CloudWatch, IAM roles
 
 ## 📂 Project Structure
-terraform/
-├── main.tf
-├── variables.tf
-├── outputs.tf
-├── modules/
-│ └── ec2/
-│ └── main.tf
